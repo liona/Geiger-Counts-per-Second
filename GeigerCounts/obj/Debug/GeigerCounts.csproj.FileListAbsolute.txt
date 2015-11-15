@@ -1,0 +1,18 @@
+C:\Users\Liona\Documents\Visual Studio 2015\Projects\GeigerCounts\GeigerCounts\bin\Debug\GeigerCounts.exe.config
+C:\Users\Liona\Documents\Visual Studio 2015\Projects\GeigerCounts\GeigerCounts\bin\Debug\GeigerCounts.exe
+C:\Users\Liona\Documents\Visual Studio 2015\Projects\GeigerCounts\GeigerCounts\bin\Debug\GeigerCounts.pdb
+C:\Users\Liona\Documents\Visual Studio 2015\Projects\GeigerCounts\GeigerCounts\obj\Debug\GeigerCounts.csprojResolveAssemblyReference.cache
+C:\Users\Liona\Documents\Visual Studio 2015\Projects\GeigerCounts\GeigerCounts\obj\Debug\GeigerCounts.Properties.Resources.resources
+C:\Users\Liona\Documents\Visual Studio 2015\Projects\GeigerCounts\GeigerCounts\obj\Debug\GeigerCounts.csproj.GenerateResource.Cache
+C:\Users\Liona\Documents\Visual Studio 2015\Projects\GeigerCounts\GeigerCounts\obj\Debug\GeigerCounts.exe
+C:\Users\Liona\Documents\Visual Studio 2015\Projects\GeigerCounts\GeigerCounts\obj\Debug\GeigerCounts.pdb
+C:\Users\Liona\Documents\Visual Studio 2015\Projects\GeigerCounts\GeigerCounts\obj\Debug\GeigerCounts.GeigerCounter.resources
+C:\Users\Liona\Documents\Visual Studio 2015\Projects\GeigerCounts perSecond\GeigerCounts\bin\Debug\GeigerCounts.exe.config
+C:\Users\Liona\Documents\Visual Studio 2015\Projects\GeigerCounts perSecond\GeigerCounts\obj\Debug\GeigerCounts.exe
+C:\Users\Liona\Documents\Visual Studio 2015\Projects\GeigerCounts perSecond\GeigerCounts\obj\Debug\GeigerCounts.pdb
+C:\Users\Liona\Documents\Visual Studio 2015\Projects\GeigerCounts perSecond\GeigerCounts\obj\Debug\GeigerCounts.csprojResolveAssemblyReference.cache
+C:\Users\Liona\Documents\Visual Studio 2015\Projects\GeigerCounts perSecond\GeigerCounts\obj\Debug\GeigerCounts.GeigerCounter.resources
+C:\Users\Liona\Documents\Visual Studio 2015\Projects\GeigerCounts perSecond\GeigerCounts\obj\Debug\GeigerCounts.Properties.Resources.resources
+C:\Users\Liona\Documents\Visual Studio 2015\Projects\GeigerCounts perSecond\GeigerCounts\obj\Debug\GeigerCounts.csproj.GenerateResource.Cache
+C:\Users\Liona\Documents\Visual Studio 2015\Projects\GeigerCounts perSecond\GeigerCounts\bin\Debug\GeigerCounts.exe
+C:\Users\Liona\Documents\Visual Studio 2015\Projects\GeigerCounts perSecond\GeigerCounts\bin\Debug\GeigerCounts.pdb
